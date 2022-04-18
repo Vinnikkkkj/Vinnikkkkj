@@ -1,4 +1,3 @@
 - 🔭 estou trabalhando atualmente em ... front-end
 - 🌱 estou estudando ... flutter, typescript, node
 - 📫 como me contatar ... viniciusmaquine14@gmail.com
-- 😄 Pronomes  ... Ele/dela
