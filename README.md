@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at Entra21 Proway
 
-- 💬 Studying **JavaScript, HTML, CSS, Vue.Js,TypeScript**
+- 💬 Studying **JavaScript, HTML, CSS, Vue.Js,TypeScript,Git**
 
 - 👨‍💻 More at ??
 <br><br>
