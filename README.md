@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinicius Cesar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinnikkkkj&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 student in web development, looking to improve my skills
+- 🔥 Working with Web Development as Full-Stack Developer
 
-- 🔭 I’m currently studying at Entra21 Proway
+- 🔭 I’m currently working at Breitkopf Veiculos LTDA
 
-- 💬 Studying **JavaScript, HTML, CSS, Vue.Js,TypeScript,Git**
+- 💬 Studying **AWS**
 
 - 👨‍💻 More at ??
 <br><br>
@@ -25,12 +25,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/vinnikkkkj" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ViniciusCesar-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/vxrainkkj" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ViniciusCesar-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://www.linkedin.com/in/viniciuskkj/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusCesar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
