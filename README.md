@@ -46,10 +46,6 @@ Linguagens & Tecnologias: `Node.js`, `Javascript`, `Vue.js`, `MySQL`, `AWS`,\
 Projetos em destaque: [AutoMe](https://ola.autome.com.br/atendimento)
 <br/>
 <br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-
 <br/>
 
 <a href="https://github.com/Vinnikkkkj" title="Perfil do Vinnikkkkj">
