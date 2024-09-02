@@ -38,7 +38,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/a/AATXAJzChHYgQVjn5aZWFs1MxyZ93KAFv9mO9QQw-Q=s900-c-k-c0xffffffff-no-rj-mo"/>](https://www.spacex.com/)
 
 **Software Engineer** \
 [**SpaceX**](https://www.spacex.com/) • Full-time \
