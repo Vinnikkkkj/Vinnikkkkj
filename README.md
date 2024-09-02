@@ -3,9 +3,9 @@
 
 - 🔥 Working with Web Development as Full-Stack Developer
 
-- 🔭 I’m currently working at Breitkopf Veiculos LTDA
+- 🔭 I’m currently working at ??
 
-- 💬 Studying **AWS**
+- 💬 Studying **Splunk**
 
 - 👨‍💻 More at ??
 <br><br>
@@ -19,6 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
+![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql&logoColor=007ACC)&nbsp;
 
 <br><br>
 ## Contact
