@@ -34,20 +34,7 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/Vinnikkkkj" title="Perfil do Vinnikkkkj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinnikkkkj&theme=dracula&show_icons=true" />
-</a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-viniciuskkj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuskkj)](https://www.linkedin.com/in/viniciuskkj)
-[![Gmail Badge](https://img.shields.io/badge/-viniciusmaquine14@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmaquine14@gmail.com)](mailto:viniciusmaquine14@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/Vinnikkkkj?label=follow&style=social)](https://github.com/Vinnikkkkj)
-
-
-### Experiência de trabalho
+## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -77,3 +64,16 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
+
+<br/>
+
+<a href="https://github.com/Vinnikkkkj" title="Perfil do Vinnikkkkj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinnikkkkj&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-viniciuskkj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuskkj)](https://www.linkedin.com/in/viniciuskkj)
+[![Gmail Badge](https://img.shields.io/badge/-viniciusmaquine14@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmaquine14@gmail.com)](mailto:viniciusmaquine14@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Vinnikkkkj?label=follow&style=social)](https://github.com/Vinnikkkkj)
