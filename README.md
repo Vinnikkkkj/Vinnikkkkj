@@ -4,8 +4,8 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na Unisociesc.
-- 💼 Trabalhando como Full Stack na Breitkopf Veiculos.
-- 🌱 Aprendendo mais sobre Splunk.
+- 💼 Trabalhando como Full Stack na **Breitkopf Veiculos**.
+- 🌱 Aprendendo mais sobre ![splunk](https://img.shields.io/badge/-splunk-333333?style=flat&logo=splunk).
 
 ## Minhas Skills
 
