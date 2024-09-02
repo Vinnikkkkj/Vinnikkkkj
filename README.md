@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/Vinnikkkkj" title="Perfil do Vinnikkkkj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinnikkkkj&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
