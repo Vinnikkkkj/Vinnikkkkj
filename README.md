@@ -43,5 +43,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmaquine14@gmail.com)](mailto:viniciusmaquine14@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-viniciusmaquine14@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmaquine14@gmail.com)](mailto:viniciusmaquine14@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Vinnikkkkj?label=follow&style=social)](https://github.com/Vinnikkkkj)
