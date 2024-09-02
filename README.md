@@ -43,7 +43,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Software Engineer** \
 [**Breitkopf Veiculos**](https://grupo.breitkopf.com.br/) • Full-time \
 Linguagens & Tecnologias: `Node.js`, `Javascript`, `Vue.js`, `MySQL`, `AWS`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Projetos em destaque: [AutoMe](https://ola.autome.com.br/atendimento)
 <br/>
 <br/>
 
