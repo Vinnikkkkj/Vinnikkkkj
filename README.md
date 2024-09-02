@@ -38,11 +38,11 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/a/AATXAJzChHYgQVjn5aZWFs1MxyZ93KAFv9mO9QQw-Q=s900-c-k-c0xffffffff-no-rj-mo"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.ggpht.com/a/AATXAJzChHYgQVjn5aZWFs1MxyZ93KAFv9mO9QQw-Q=s900-c-k-c0xffffffff-no-rj-mo"/>](https://grupo.breitkopf.com.br/)
 
 **Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
+[**Breitkopf Veiculos**](https://grupo.breitkopf.com.br/) • Full-time \
+Linguagens & Tecnologias: `Node.js`, `Javascript`, `Vue.js`, `MySQL`, `AWS`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 <br/>
