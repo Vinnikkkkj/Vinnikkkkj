@@ -1,38 +1,54 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinicius Cesar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinnikkkkj&color=yellow" alt="Profile views" /> </p>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-- 🔥 Working with Web Development as Full-Stack Developer
+## Sobre mim
 
-- 🔭 I’m currently working at ??
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Ciência da Computação na Unisociesc.
+- 💼 Trabalhando como Full Stack na Breitkopf Veiculos.
+- 🌱 Aprendendo mais sobre Splunk.
 
-- 💬 Studying **Splunk**
+## Minhas Skills
 
-- 👨‍💻 More at ??
-<br><br>
+**Aplicações e dados**
 
-🛠 &nbsp;I am studying / have knowledge
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
-![SQL](https://img.shields.io/badge/-sql-05122A?style=flat&logo=sql&logoColor=007ACC)&nbsp;
+**Utilidades**
 
-<br><br>
-## Contact
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/viniciuskkj/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ViniciusCesar-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Aws](https://img.shields.io/badge/-Aws-333333?style=flat&logo=aws)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
-<a href="https://www.instagram.com/vinnikkj_/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ViniciusCesar-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
 
-<!--
+## Onde me encontrar
 
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
