@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação na Unisociesc.
-- 💼 Trabalhando como Full Stack na **Breitkopf Veiculos**.
+- 💼 Trabalhando como Analista de BI na **DataRunk**.
 - 🌱 Aprendendo mais sobre **Splunk**.
 
 ## Minhas Skills
