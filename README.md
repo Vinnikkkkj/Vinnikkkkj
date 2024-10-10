@@ -38,10 +38,10 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://yt3.ggpht.com/a/AATXAJzChHYgQVjn5aZWFs1MxyZ93KAFv9mO9QQw-Q=s900-c-k-c0xffffffff-no-rj-mo](https://th.bing.com/th/id/OIP.67UVF1U26sIHM47eRQ5IJwHaHa?rs=1&pid=ImgDetMain)"/>](https://datarunk.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://yt3.ggpht.com/a/AATXAJzChHYgQVjn5aZWFs1MxyZ93KAFv9mO9QQw-Q=s900-c-k-c0xffffffff-no-rj-mo](https://th.bing.com/th/id/OIP.67UVF1U26sIHM47eRQ5IJwHaHa?rs=1&pid=ImgDetMain)"/>](https://datarunk.com/)
 
 **BI Analyst** \
-[**DataRunk**](https://datarunk.com.br/) • Full-time \
+[**DataRunk**](https://datarunk.com/) • Full-time \
 Linguagens & Tecnologias: `Splunk`, `Javascript`, `Python`\
 Projetos em destaque: [-]
 <br/>
